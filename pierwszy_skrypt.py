@@ -1,4 +1,9 @@
 print("hello world")
 print("nara swiecie")
-print("witaj masterze")
+
+
+
+print("elo wariacie")
+print("nara ziomek")
+
 
